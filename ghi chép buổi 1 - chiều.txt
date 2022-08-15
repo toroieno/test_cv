@@ -1,0 +1,107 @@
+web: 
+- Trang web chính: timviec365.vn
+- other: job3s.com, vieclam24h.net.vn, work247.vn, vieclam123.vn, timviec365.com.vn
+- Bán thẻ (điện thoại, game): banthe247.com, banthe24h.vn, muathe123.vn, napthe365.com, muathe24h.vn
+- Mua bán rao vặt: raonhanh365.vn
+- Bán vé máy bay: hunghabay.vn
+
+=> app (tải trên trang chủ)
+
+cắt cv
+----------------
+chuyển đổi số: Hệ sinh thái (Appchat365) <- chưa ổn định, tạm thời trên: quanlychung.timviec365.vn
+
+Ứng dụng: 
+	- chấm công (1)
+	- tính lương (2)
+	- văn thư lưu trữ (3)
+	- quản trị nhân sự HR (4)
+
+(1) 
+ca sáng: 8:00 - 11:30
+ca chiều: 14:00 - 18:00
+Hình thức: 
+	- App: pc365 (2-4-6), chamcong365 (3-5-6) - khoảng thời gian đầu giờ sáng (6:00-trước 8:00)
+	(dk: khuôn mặt + vị trí (tọa độ < 30m) + wifi)
+	--> sau 8:00: muộn - chấm trên web
+	- Web: 
+		- 11:30 - 12:50: chấm lần 2
+		- 13:00 - trước 14:00: chấm ca chiều
+		- 18:00 - trước 23:30: chấm lần 2
+	- ca theo lương: 5-7-10, ca phòng 14
+
+--> sau 6 ngày học việc -> lương: chọn khoảng lương?
+fulltime: 1 ca 0.5 công
+hỗ trợ chấm công: lỗi? trước 10' vào giờ - 7:50
+	- tọa độ lỗi: reset?
+	- wifi: tp-link3630 : 99311230, HungVietFPT: 1234568@, hhp1: Hh123988
+
+Đi muộn: 
+	- trong khoảng 30' đầu:
+		-liên hệ hotline: 
+	- muộn lâu hơn (hỏng xe, hỏng máy tính, ...): liên hệ nhân sự, 
+	--> không thống báo: nghỉ sai quy định (-) --> tới chấm (+): công = 0
+
+Thời gian mở cổng: 
+	- 7:40-8:00
+	- 11:40-12:00
+	- 13:40-14:00
+	- 18:10-18:30
+
+Kĩ thuật hỗ trợ:
+	- Web: anh Nguyễn Bá Duy (anh Dương Xuân Hiệp)
+	- App: anh Bùi Hữu Đoàn
+
+sau 6 ngày -> 60 (55-60) ngày -> báo Bùi Dung (PV3)
+không lạm dụng đề xuất
+
+------------
+(2) công tính theo lịch làm việc
+- ngân hàng bidv: 
+
+--------
+(3) đơn xin nghỉ - mục đề xuất
+	- nghỉ phép đột xuất (ốm, lịch thi - báo từ hôm trước, ...)
+		- gọi (ngoài giờ hành chính) or gặp trực tiếp: nêu lý do nghỉ
+		- tạo đơn (phần mềm văn thư lưu trữ):
+			- tiều đề: đơn xin nghỉ phép đột xuất(có kế hoạch) ca ... ngày ...
+			(báo trước vào tối, or sáng từ 6h-7h)
+			- Lãnh đạo duyệt đơn: trước 30' vào ca (7:30, 14:00) (Hạn duyệt đơn)
+			--> đơn không được duyệt: nghỉ sai quy định
+			- chọn thời gian: 
+			- người xét duyệt: 2 ngày đầu (chị Trang), 4 ngày tới (báo chị Trang + quản lý phòng) -> pass: quản lý phòng + trưởng khối?
+			- tệp đính kèm (lịch thi, ...) -> xác minh
+		- gọi ->
+
+==> nghỉ có kế hoạch: tạo trước 3 ngày nghỉ - hạn lãnh đạo duyệt (trong 12h đồng hồ kể từ thời điểm tạo đơn)
+nghỉ ngày rưỡi? tích ngày 2 lần (1 đơn: nửa ca + chẵn)
+
+đề xuất lịch làm việc: chậm nhất 18h thứ 6 hàng tuần --> thứ 7 duyệt
+quên tạo đề xuất? làm đơn xin nghỉ phép
+- tiêu đề: đề xuất lịch làm việc tuần ... 
+- người xét duyệt: quản lý phòng
+- lý do: em có lịch cố định
+
+---------------------
+tan ca muộn:
+về muộn? sang phòng 10 (KD1 - chị Lê Thùy Dung) mượn khóa, kí sổ, trả lại trước giờ ca sau
+
+KHÔNG BÁO CÁO TRỪ (0.5 CÔNG)
+báo cáo công việc: tóm tắt 1 ngày
+	- báo cáo ngày: hết ca báo cáo (trong 6 ngày học việc thuộc phòng 14 - nhóm 14: nhóm báo cáo nhân sự học việc)
+	- tiêu đề: họ và tên - vị trí - tiêu đề " báo cáo công việc ca sáng (ngày) 11/08"
+-> kết thúc 6 ngày: nhóm báo cáo theo phòng (13 phòng) -> về phòng (Appchat)
+- file báo cáo (docx)
+	- họp tuần: 17h hàng ngày (phòng họp 1, 2) -> file docx (báo cáo tuần)
+	- hạn chót: sáng-13h (13h15 không thấy gửi lại) - 
+ 
+- file về tài liệu văn hóa công ty (đọc, xem)
+- liệt kê các web (trên ms có các đầu web chính còn: giasu, nhatro, khoahoc, ...) -> khai thác được những thông tin gì
+- chuyển đổi số: ứng dụng có lỗi không? chạy như nào: xem mẫu cv, biên tập, cẩm nang, blog,...
+==> 17h40 họp giao ban của các phòng -> dự kiến công việc ngày hôm sau?
+
+----------------
+(4) trường khối : kĩ thuật 
+Khối kinh doanh: 3, 10, 11, 12, 13 - Trưởng khối: anh Trương Đức Chính -> pv sau 6 ngày
+Khối biên tập: 1, 2, 3, 6 - Trưởng khối: Lại Thị Trang (p2 - đào tạo và phát triển)
+Khối kĩ thuật: 7, 8, 9, 4(code app và AI) - Trưởng khối: Nguyễn Bá Duy (trưởng p7)

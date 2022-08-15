@@ -1,0 +1,29 @@
+quản trị nhân sự HR:
+- phạt đi muộn:
+	(0-10phuts)
+	- < 5tr: -50k
+	- 5.1tr-7tr: -80k
+	- 7.1tr-10tr: -100k
+	- > 10tr: -150k
+
+	(11-30)
+	- 80 100 150 200
+- nghỉ không phép:
+	- 100 200 300 500
+
+- nghỉ không đúng quy định
+	- 100 200 600 1000
+
+- về muộn sau 19h
+- họp giao ban: báo cáo công việc + đăng ký cơm
+
+- thắc mắc lương: trước 8:05, trước 14:05 -> chấm công xong-bảng lương nhảy?
+
+- trước 5p vào giờ: ổn định chỗ ngồi
+
+phiếu đánh giá PDG0058
+
+Nguyễn Văn Triển - TTS PHP - Báo cáo công việc ngày 12/08
+- Học văn hóa công ty
+- Làm bài test đánh giá năng lực nhân viên
+- test CV "Sinh viên mới ra trường" trên work247.vn 

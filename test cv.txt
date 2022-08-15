@@ -1,0 +1,15 @@
+
+1. Đăng ký tài khoản mới bằng cách tạo cv
+2. Chia 96 ngành nghề CV ra để tét theo từng ngành nghề
+3. Tạo từng cái CV trên trang
+3.1 Xóa hết các nội dung đi thay bằng nội dung mới
+3.2 Chỉ sửa nội dung
+3.3 Kéo các bố cục
+3.4 Căn nội dung cho CV thành > 2 trang để cho đẹp về hình thức
+3.5 In CV ra xem có đúng như được bản trên web không?
+3.6 Xem nền CV có được nền ở hết trang A4 ko?
+3.7 Sử dụng các thuộc tính in đậm, in nghiêng, giãn dòng….có lỗi khi tải về không?
+3.8 Thay ảnh đại diện cho từng CV
+3.9 Thêm/sửa…xóa nội dung trong CV
+
+
